@@ -1,0 +1,32 @@
+{
+    "data": [
+      {
+        "id": "a",
+        "name": "Load Balancer 3",
+        "protocol": "protocol a",
+        "port": "port a",
+        "rule": "Round Robin"
+    },
+    {
+      "id": "b",
+      "name": "Load Balancer 1",
+      "protocol": "protocol b",
+      "port": "80",
+      "rule": "Round Robin"
+    },
+    {
+      "id": "c",
+      "name": "Load Balancer 2",
+      "protocol": "protocol c",
+      "port": "port c",
+      "rule": "Round Robin"
+    },
+    {
+      "id": "d",
+      "name": "Load Balancer 2",
+      "protocol": "protocol c",
+      "port": "port c",
+      "rule": "Round Robin"
+    }
+    ]
+  }

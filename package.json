@@ -1,0 +1,32 @@
+{
+  "name": "carbon-design",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "carbon-components": "^9.26.0",
+    "carbon-components-react": "^6.36.1",
+    "carbon-icons": "^7.0.7",
+    "node-sass": "^4.9.3",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-scripts": "2.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "webpack": "^4.19.1"
+  }
+}
